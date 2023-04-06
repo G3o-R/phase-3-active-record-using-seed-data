@@ -270,3 +270,5 @@ to quickly generate randomized seed data.
 
 [replant]: https://blog.saeloun.com/2019/09/30/rails-6-adds-db-seed-replant-task-and-db-truncate_all.html
 [faker]: https://github.com/faker-ruby/faker
+
+git@github.com:G3o-R/phase-3-active-record-using-seed-data.git
